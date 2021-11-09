@@ -1,0 +1,7 @@
+{
+  "name": "lilly-cooking-book",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
